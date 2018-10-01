@@ -1,2 +1,2 @@
 # CoinPrice
-An ios app
+An ios app to show the price of Bitcoin in different currencies.
